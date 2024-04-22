@@ -10,9 +10,18 @@ The project aims to automate financial analysis and election vote counting proce
     **if the relative path changes for this file, the code will not operate correctly. 
 3. The solution file is a .txt file found in the analysis folder. It is labeled pybank_solution.txt.
 
+# CODE SAMPLE FOR PYBANK:
+
+![alt text](pybank/Resources/code_snapshot_pybank.png)
+
+
 # FOR PYPOL (Election Analysis)
 1. The election analysis code file is labeled main.py and is found in the pypol main folder.
 
 2. The resources file is located in Resources, and it is labeled election_data.csv. 
     **if the relative path changes for this file, the code will not operate correctly. 
 3. The solution file is a .txt file found in the analysis folder. It is labeled pypol_results.txt
+
+# CODE SAMPLE FOR PYPOL:
+
+![alt text](pypoll/Resources/code_snapshot_pypol.png)
